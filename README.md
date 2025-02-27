@@ -21,10 +21,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x ] List anything else that you can get done to improve the app functionality!
+- [ x ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/7fb8f28f004e40b9bace052644f774d0">
+      
+    </a>
+    <a href="https://www.loom.com/share/7fb8f28f004e40b9bace052644f774d0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7fb8f28f004e40b9bace052644f774d0-f0b28f75000d7238-full-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
