@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/7fb8f28f004e40b9bace052644f774d0">
-      
+      <p>Simulator - iPhone 16 Pro - 26 February 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/7fb8f28f004e40b9bace052644f774d0">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7fb8f28f004e40b9bace052644f774d0-f0b28f75000d7238-full-play.gif">
