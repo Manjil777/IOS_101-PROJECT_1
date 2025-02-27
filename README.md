@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 the instruction on the project was kind of confusing. There should be a through step and instructions.
 I did not manage to use it in my device but i really wanna see how do it works and all.
 
